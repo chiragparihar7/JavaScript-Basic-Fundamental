@@ -1,6 +1,6 @@
 // If else if 
 
-// let temprature = +prompt("Given weather deatils");
+// let temprature = +prompt("Given weather deatils");      // prompt for chooes number by given alert 
 
 // if(temprature < 0 ){
 //     console.log("weather is exertimly cold");

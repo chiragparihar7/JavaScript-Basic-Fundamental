@@ -13,7 +13,7 @@
 
 
 
-let firstName = "chirag" ; 
+let firstName = "chirarg"; 
 if(firstName){
     console.log(firstName)
 }else {

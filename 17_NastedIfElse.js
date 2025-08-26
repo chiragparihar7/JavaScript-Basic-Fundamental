@@ -2,7 +2,7 @@
 
 let winningNumber = 22;
 let guessNumber = +prompt("Chooes a Number");
-// console.log(typeof guessNumber, guessNumber);
+console.log(typeof guessNumber, guessNumber);
 
 if(winningNumber === guessNumber){
     console.log("You are right!!");
